@@ -6,7 +6,7 @@ You will find the project details in "C251-Project Description-ParkingGarage-v2.
 # ii) INTRODUCTION
 • In this project you will collect the requirements, design, and implement a non-trivial software system. You will practice the concepts you learned during the course.
 
-# iiI) PROJECT DETAILS
+# iii) PROJECT DETAILS
 
 Apply the Object-Oriented concepts that you’ve learned (Abstraction, polymorphism, interfaces, packaging, …) utilizing Boundary, control and entity concepts as well as SOLID Principles to design a Parking Garage application and implement it using an object-oriented programming language. This application manages a parking space for a configurable maximum number of vehicles. Each parking space (slot) defined with a dimension (width and depth) The designed application must handle the following functions:
 • Each vehicle shall be identified by a model name, unique identification number, Model year and vehicle dimensions (vehicle width and depth).
